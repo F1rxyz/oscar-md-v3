@@ -70,8 +70,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = sticker_name
-global.author = sticker_author
+global.packname = 'ShellTear:3'
+global.author = 'Firxyz'
 global.wm = 'ShellTear:3'
 
 global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
